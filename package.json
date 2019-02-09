@@ -1,0 +1,11 @@
+{
+  "name": "ndi-di",
+  "description": "direct invocation for NDI",
+  "main": "wsclearsvr.js",
+  "scripts": {
+    "start": "node wsclearsvr.js"
+  },
+  "dependencies": {
+    "websocket": "^1.0.28"
+  }
+}
